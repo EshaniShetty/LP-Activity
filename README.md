@@ -1,4 +1,4 @@
-<img width="195" height="96" alt="image" src="https://github.com/user-attachments/assets/b2e31dd6-a4ad-4276-91c8-df634147a10c" /># LP-Activity
+src="https://github.com/user-attachments/assets/b2e31dd6-a4ad-4276-91c8-df634147a10c" /># LP-Activity
 This is my LP Activity 1 and 2
 
 Activity 1
